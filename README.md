@@ -20,7 +20,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Desafio Full-Stack" title="#desafiofullstack" src="./assets/banner.png" />
+    <img alt="Desafio Full-Stack" title="#desafiofullstack" src="./img/banner.png" />
 </h1>
 
 <h4 align="center"> 
