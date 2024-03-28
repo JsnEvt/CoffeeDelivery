@@ -111,7 +111,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[React-hook-form[(https://github.com/react-hook-form/react-hook-form)**
--   **[Phosphor-icons](https://github.com/phosphor-icons/react)
+-   **[Phosphor-icons](https://github.com/phosphor-icons/react)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 -   **[Immer](https://github.com/immerjs/immer)**
 -   **[React-router-dom](https://github.com/remix-run/react-router)**
